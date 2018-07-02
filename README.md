@@ -3,7 +3,7 @@ to debug all the installation issues in CentOS
 
 ********************************Important CenoOS Packages List*************************************  
 
-| Packages                 | Poller         |
+| Packages                 | Description    |
 | ------------------------ | -------------- |
 |   bash                   |                |
 |   binutils               |                | 
@@ -78,82 +78,82 @@ to debug all the installation issues in CentOS
 |   xz                     |                | 
 |   yum                    |                |
 | yum-plugin-fastestmirror |                | 
- 
-******** Extra Packages ********
-| Packages                 | Poller         |
-| ------------------------ | -------------- |
+   
+  
+******** Extra Packages ********  
+
+| Packages                 	| Description    |
+| ------------------------ 	| -------------- |
 |   audit                   |                |
-|   authconfig               |                | 
-|   bind-libs-lite        |                |
-|   bind-license         |                | 
-|   biosdevname              |                |
-|   cronie              |                | 
-|   cronie-anacron                   |                |
-|   crontabs        |                | 
-|   device-mapper-persistent-data         |                |
-|   dhclient                   |                | 
-|   dmidecode                   |                |
-|   dnsmasq              |                | 
-|   dracut-network                 |                |
-|   dracut-config-rescue        |                | 
-|   e2fsprogs                  |                |
-|   epel-release             |                | 
-|   ethtool                   |                |
-|   file                  |                | 
-|   fipscheck                  |                |
-|   freetype           |                | 
-|   gettext                    |                |
-|   gnutls                 |                | 
-
-
-|   grep                   |                |
-|   gzip                   |                | 
-|   kmod                   |                |
-|   kmod-libs              |                | 
-|   kpartx                 |                |
-|   krb5-libs              |                | 
-|   libblkid               |                |
-|   libcap                 |                | 
-|   libdb                  |                |
-|   libffi                 |                | 
-|   libgcc                 |                |
-|   libgcrypt              |                | 
-|   libmount               |                |
-|   libuuid                |                | 
-|   libsemanage            |                |
-|   libstdc++              |                | 
-|   libssh2                |                |
-|   libtasn1               |                | 
-|   libxml2                |                |
-|   lua                    |                | 
-|   ncurses                |                |
-|   nspr                   |                | 
-|   nss                    |                | 
-|   nss-softokn            |                |
-|   nss-softokn-freebl     |                | 
-|   nss-sysinit            |                |
-|   nss-tools              |                | 
-|   nss-util               |                |
-|   openldap               |                | 
-|   openssl-libs           |                |
-|   pam                    |                | 
-|   pcre                   |                |
-|   pinentry               |                | 
-|   procps-ng              |                |
-|   python                 |                | 
-|   python-libs            |                |
-|   python-pycurl          |                | 
-|   readline               |                |
-|   rpm                    |                | 
-|   setup                  |                |
-|   shadow-utils           |                | 
-|   shared-mime-info       |                |
-|   systemd                |                | 
-|   systemd-libs           |                |
-|   systemd-sysv           |                | 
-|   util-linux             |                |
-|   tar                    |                | 
-|   tzdata                 |                |
-|   xz                     |                | 
-|   yum                    |                |
-| yum-plugin-fastestmirror |                |
+|   authconfig              |                | 
+|   bind-libs-lite        	|                |
+|   bind-license         	|                | 
+|   biosdevname             |                |
+|   cronie              	|                | 
+|   cronie-anacron          |                |
+|   crontabs        		|                | 
+|device-mapper-persist-data |                |
+|   dhclient                |                | 
+|   dmidecode               |                |
+|   dnsmasq              	|                | 
+|   dracut-network          |                |
+|   dracut-config-rescue    |                | 
+|   e2fsprogs               |                |
+|   epel-release            |                | 
+|   ethtool                 |                |
+|   file           	        |                | 
+|   fipscheck               |                |
+|   freetype      	        |                | 
+|   gettext                 |                |
+|   gnutls                  |                | 
+|   gobject-introspection   |                |
+|   grub2                   |                | 
+|   grubby                  |                |
+|   hwdata              	|                | 
+|   iproute                 |                |
+|   iprutils              	|                | 
+|   iputils               	|                |
+|   initscripts             |                | 
+|   irqbalance              |                |
+|   kbd             	    |                | 
+|   kernel                  |                |
+|   kernel-tools            |                | 
+|   kernel-tools-libs       |                |
+|   kexec-tools             |                | 
+|   libcroco         	    |                |
+|   libdrm                  |                | 
+|   libgomp                 |                |
+|   libnetfilter_conntrack  |                | 
+|   libpciaccess            |                |
+|   lsscsi                  |                | 
+|   lvm2                    |                |
+|   make                    |                | 
+|   mdadm                   |                | 
+|   microcode_ctl           |                |
+|   mozjs17     			|                | 
+|   nettle            		|                |
+|   openssh              	|                | 
+|   openssh-clients         |                |
+|   openssh-server          |                | 
+|   openssl       		    |                |
+|   os-prober               |                | 
+|   parted                  |                |
+|   pciutils-libs           |                | 
+|   plymouth       	        |                |
+|   plymouth-scripts        |                | 
+|   policycoreutils         |                |
+|   polkit          		|                | 
+|   python-gobject-base     |                |
+|   python-perf             |                | 
+|   python-pyudev           |                |
+|   rdma-core           	|                | 
+|   rsync       			|                |
+|   rsyslog                	|                | 
+|   selinux-policy          |                |
+|   selinux-policy-targeted |                | 
+|   sudo             		|                |
+|   tuned                   |                | 
+|   vim-minimal             |                |
+|   virt-what               |                | 
+|   xfsprogs                |                |
+|   yum-utils 				|                |
